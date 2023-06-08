@@ -1,0 +1,15 @@
+D:\Academy homework\NP\Exam(.NET)\Exam(.NET)\bin\Debug\net6.0\Exam(.NET).exe
+D:\Academy homework\NP\Exam(.NET)\Exam(.NET)\bin\Debug\net6.0\Exam(.NET).deps.json
+D:\Academy homework\NP\Exam(.NET)\Exam(.NET)\bin\Debug\net6.0\Exam(.NET).runtimeconfig.json
+D:\Academy homework\NP\Exam(.NET)\Exam(.NET)\bin\Debug\net6.0\Exam(.NET).dll
+D:\Academy homework\NP\Exam(.NET)\Exam(.NET)\bin\Debug\net6.0\Exam(.NET).pdb
+D:\Academy homework\NP\Exam(.NET)\Exam(.NET)\obj\Debug\net6.0\Exam(.NET).csproj.AssemblyReference.cache
+D:\Academy homework\NP\Exam(.NET)\Exam(.NET)\obj\Debug\net6.0\Exam(.NET).GeneratedMSBuildEditorConfig.editorconfig
+D:\Academy homework\NP\Exam(.NET)\Exam(.NET)\obj\Debug\net6.0\Exam(.NET).AssemblyInfoInputs.cache
+D:\Academy homework\NP\Exam(.NET)\Exam(.NET)\obj\Debug\net6.0\Exam(.NET).AssemblyInfo.cs
+D:\Academy homework\NP\Exam(.NET)\Exam(.NET)\obj\Debug\net6.0\Exam(.NET).csproj.CoreCompileInputs.cache
+D:\Academy homework\NP\Exam(.NET)\Exam(.NET)\obj\Debug\net6.0\Exam(.NET).dll
+D:\Academy homework\NP\Exam(.NET)\Exam(.NET)\obj\Debug\net6.0\refint\Exam(.NET).dll
+D:\Academy homework\NP\Exam(.NET)\Exam(.NET)\obj\Debug\net6.0\Exam(.NET).pdb
+D:\Academy homework\NP\Exam(.NET)\Exam(.NET)\obj\Debug\net6.0\Exam(.NET).genruntimeconfig.cache
+D:\Academy homework\NP\Exam(.NET)\Exam(.NET)\obj\Debug\net6.0\ref\Exam(.NET).dll

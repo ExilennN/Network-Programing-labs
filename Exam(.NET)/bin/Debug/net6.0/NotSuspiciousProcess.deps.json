@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NotSuspiciousProcess/1.0.0": {
+        "dependencies": {
+          "ServerSpy": "1.0.0"
+        },
+        "runtime": {
+          "NotSuspiciousProcess.dll": {}
+        }
+      },
+      "ServerSpy/1.0.0": {
+        "runtime": {
+          "ServerSpy.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotSuspiciousProcess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServerSpy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
