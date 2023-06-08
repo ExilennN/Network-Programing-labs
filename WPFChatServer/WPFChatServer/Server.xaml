@@ -1,0 +1,28 @@
+﻿<Window x:Class="WPFChatServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFChatServer"
+        mc:Ignorable="d"
+        Title="Server" Height="480" Width="500" ResizeMode="NoResize" Background="#1a3b2b">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.25*" ></RowDefinition>
+            <RowDefinition Height="0.25*"></RowDefinition>
+            <RowDefinition ></RowDefinition>
+
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" FontSize="30" Foreground="#347857" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,5,0,0">IP</Label>
+        <TextBox x:Name="IPText" PreviewTextInput="OnlyNumericNdot_PreviewTextInput" Grid.Row="0" Background="#347857" Foreground="#59ba8b" FontSize="29" Height="40" Width="204" Margin="50,12,246,25" />
+        <Label FontSize="30" Foreground="#347857" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="271,7,0,0">Port</Label>
+        <TextBox x:Name="PortText" PreviewTextInput="OnlyNumeric_PreviewTextInput" Grid.Row="0" Background="#347857" Foreground="#59ba8b" FontSize="29" Height="40" Width="136" Margin="340,12,24,25" ></TextBox>
+
+        <ListBox x:Name="ClientMessages" Margin="10" FontSize="20" Grid.Row="2" Background="#347857" Foreground="#59ba8b"></ListBox>
+
+        <Button Grid.Row="1" x:Name="StartServerB" Click="StartServerB_Click" FontWeight="DemiBold" FontSize="30" Background="#347857" Foreground="#59ba8b" Margin="10,13,274,13" >Start Server</Button>
+        <Label Grid.Row="1" Content="Status:" Foreground="#59ba8b" FontSize="20" Margin="289,19,121,13" />
+        <Label Grid.Row="1" x:Name="StatusLabel" FontWeight="SemiBold" Content="Offline" Foreground="IndianRed" FontSize="20" Margin="384,19,24,13" />
+    </Grid>
+</Window>

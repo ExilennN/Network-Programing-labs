@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoTransmitter", "VideoTransmitter\VideoTransmitter.csproj", "{1C84A725-9FA8-4277-A3B8-4FE43E7A8F1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoReceiver", "VideoReceiver\VideoReceiver.csproj", "{FC2B2436-FAB3-4C9B-AB01-6B84365DC9E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C84A725-9FA8-4277-A3B8-4FE43E7A8F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C84A725-9FA8-4277-A3B8-4FE43E7A8F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C84A725-9FA8-4277-A3B8-4FE43E7A8F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C84A725-9FA8-4277-A3B8-4FE43E7A8F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2B2436-FAB3-4C9B-AB01-6B84365DC9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2B2436-FAB3-4C9B-AB01-6B84365DC9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2B2436-FAB3-4C9B-AB01-6B84365DC9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2B2436-FAB3-4C9B-AB01-6B84365DC9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C25CFBA-2065-4285-8234-14F2664F1A67}
+	EndGlobalSection
+EndGlobal

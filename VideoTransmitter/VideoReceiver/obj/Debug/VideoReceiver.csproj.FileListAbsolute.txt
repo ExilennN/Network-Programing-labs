@@ -1,0 +1,21 @@
+C:\Users\student\source\repos\VideoTransmitter\VideoReceiver\bin\Debug\VideoReceiver.exe.config
+C:\Users\student\source\repos\VideoTransmitter\VideoReceiver\bin\Debug\VideoReceiver.exe
+C:\Users\student\source\repos\VideoTransmitter\VideoReceiver\bin\Debug\VideoReceiver.pdb
+C:\Users\student\source\repos\VideoTransmitter\VideoReceiver\obj\Debug\VideoReceiver.csprojAssemblyReference.cache
+C:\Users\student\source\repos\VideoTransmitter\VideoReceiver\obj\Debug\VideoReceiver.MainWindow.resources
+C:\Users\student\source\repos\VideoTransmitter\VideoReceiver\obj\Debug\VideoReceiver.Properties.Resources.resources
+C:\Users\student\source\repos\VideoTransmitter\VideoReceiver\obj\Debug\VideoReceiver.csproj.GenerateResource.cache
+C:\Users\student\source\repos\VideoTransmitter\VideoReceiver\obj\Debug\VideoReceiver.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\VideoTransmitter\VideoReceiver\obj\Debug\VideoReceiver.exe
+C:\Users\student\source\repos\VideoTransmitter\VideoReceiver\obj\Debug\VideoReceiver.pdb
+D:\Academy homework\NP\VideoTransmitter\VideoReceiver\bin\Debug\VideoReceiver.exe.config
+D:\Academy homework\NP\VideoTransmitter\VideoReceiver\bin\Debug\VideoReceiver.exe
+D:\Academy homework\NP\VideoTransmitter\VideoReceiver\bin\Debug\VideoReceiver.pdb
+D:\Academy homework\NP\VideoTransmitter\VideoReceiver\obj\Debug\VideoReceiver.csproj.AssemblyReference.cache
+D:\Academy homework\NP\VideoTransmitter\VideoReceiver\obj\Debug\VideoReceiver.csproj.SuggestedBindingRedirects.cache
+D:\Academy homework\NP\VideoTransmitter\VideoReceiver\obj\Debug\VideoReceiver.MainWindow.resources
+D:\Academy homework\NP\VideoTransmitter\VideoReceiver\obj\Debug\VideoReceiver.Properties.Resources.resources
+D:\Academy homework\NP\VideoTransmitter\VideoReceiver\obj\Debug\VideoReceiver.csproj.GenerateResource.cache
+D:\Academy homework\NP\VideoTransmitter\VideoReceiver\obj\Debug\VideoReceiver.csproj.CoreCompileInputs.cache
+D:\Academy homework\NP\VideoTransmitter\VideoReceiver\obj\Debug\VideoReceiver.exe
+D:\Academy homework\NP\VideoTransmitter\VideoReceiver\obj\Debug\VideoReceiver.pdb
